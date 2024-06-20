@@ -7,7 +7,12 @@ The methodology involves preprocessing the ECG images, augmenting the dataset fo
 The expected outcome of this research is a sophisticated diagnostic tool that can aid healthcare professionals in rapidly and accurately identifying normal cardiac patterns, abnormalities, and potential myocardial disorders from 12-lead ECG images. The findings from this research lay the foundation for future enhancements, including the integration of real-time monitoring capabilities and the expansion of the dataset to further refine and generalize the diagnostic system.
 
 **Dataset:**
-- comprising ECG images from patients diagnosed with both cardiac conditions and COVID-19 [3]. This unique dataset includes 1937 distinct patient records, gathered using the 'EDAN SERIES-3 ECG Device deployed in Cardiac Care and Isolation Units [3] across various healthcare institutions in Pakistan. 12-lead-based standard ECG images [4] collected from distinct patients do not contain any personal information about the patient.
+- ECG images from patients diagnosed with both cardiac conditions and COVID-19 
+- 1937 distinct patient records, gathered using the 'EDAN SERIES-3 ECG Device deployed in Cardiac Care and Isolation Units [3] across various healthcare institutions in Pakistan.
+- do not contain any personal information about patients.
+- Resource: https://data.mendeley.com/datasets/gwbz3fsgp8/1 
+![image](https://github.com/aaleksandraristic/Intelligent-ECG-Diagnostic-System-based-on-CNN-Models/assets/140200824/9480dff9-4e22-4fc9-9684-f12592a5f402)
+
 
 **Methods:**
 **CNN Architectures**
