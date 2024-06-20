@@ -1,4 +1,4 @@
-**Intelligent ECG Diagnostic System with CNN Models**
+**Intelligent ECG Diagnostic System based on CNN Models**
 
 The primary objective of this research project is to design a robust diagnostic system capable of classifying ECG images into categories of cardiovascular disorders based on ECG recordings. The proposed CNN models, VGG and ResNet, were trained on the dataset to learn distinctive features from the complex ECG waveforms. The research explored the efficacy of these architectures in capturing intricate patterns and subtle abnormalities present in the ECG images.
 
