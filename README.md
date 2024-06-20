@@ -2,16 +2,14 @@
 
 The primary objective of this research project is to design a robust diagnostic system capable of classifying ECG images of cardiovascular disorders based on ECG recordings. The proposed CNN models, VGG and ResNet, were trained on the dataset to learn distinctive features from the complex ECG waveforms. The research explored the efficacy of these architectures in capturing intricate patterns and subtle abnormalities present in the ECG images.
 
-**Dataset:**
+# Dataset:
 - ECG images from patients diagnosed with both cardiac conditions and COVID-19 
 - 1937 distinct patient records, gathered using the 'EDAN SERIES-3 ECG Device deployed in Cardiac Care and Isolation Units [3] across various healthcare institutions in Pakistan.
 - do not contain any personal information about patients.
 - Resource: https://data.mendeley.com/datasets/gwbz3fsgp8/1 
 
 
-**Methods: CNN Architectures**
-
-This study utilized two prominent **Convolutional Neural Network (CNN) architectures, VGG and ResNet**, to develop an intelligent ECG diagnostic system for classifying ECG images into cardiovascular disorder categories.
+# Methods: CNN Architectures
 
 **1. VGG16 (Visual Geometry Group) Network:**
 
@@ -31,7 +29,7 @@ ResNet addressed the problem of vanishing gradients in deep networks by introduc
 
 **4. Model Evaluation:** The models were evaluated using accuracy, sensitivity, specificity, and F1-score to assess diagnostic performance. 
 
-**Expected Outcome:**
+# Expected Outcome:
 
 The expected outcome of this research is a sophisticated diagnostic tool that can aid healthcare professionals in rapidly and accurately identifying normal cardiac patterns, abnormalities, and potential myocardial disorders from 12-lead ECG images. The findings from this research lay the foundation for future enhancements, including the integration of real-time monitoring capabilities and the expansion of the dataset to further refine and generalize the diagnostic system. 
 
