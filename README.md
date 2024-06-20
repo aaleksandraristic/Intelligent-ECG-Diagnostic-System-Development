@@ -12,12 +12,15 @@ The primary objective of this research project is to design a robust diagnostic 
 
 **Methods:**
 **CNN Architectures**
+
 This study utilized two prominent **Convolutional Neural Network (CNN) architectures, VGG and ResNet**, to develop an intelligent ECG diagnostic system for classifying ECG images into cardiovascular disorder categories.
 
 **VGG16 (Visual Geometry Group) Network:**
+
 VGG is renowned for its simplicity and effectiveness in image classification. It consists of several convolutional layers followed by max-pooling layers and fully connected layers.
 
 **ResNet50 (Residual Network):**
+
 ResNet addressed the problem of vanishing gradients in deep networks by introducing skip connections or residual blocks, making it suitable for capturing complex patterns in ECG images.
 
 **Methodology**
@@ -29,7 +32,8 @@ ResNet addressed the problem of vanishing gradients in deep networks by introduc
 
 **4. Model Evaluation:** The models were evaluated using accuracy, sensitivity, specificity, and F1-score to assess diagnostic performance. 
 
-**Expected Outcome**
+**Expected Outcome: **
+
 The expected outcome of this research is a sophisticated diagnostic tool that can aid healthcare professionals in rapidly and accurately identifying normal cardiac patterns, abnormalities, and potential myocardial disorders from 12-lead ECG images. The findings from this research lay the foundation for future enhancements, including the integration of real-time monitoring capabilities and the expansion of the dataset to further refine and generalize the diagnostic system. 
 
 
