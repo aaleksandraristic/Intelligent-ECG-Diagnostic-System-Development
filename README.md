@@ -21,7 +21,7 @@ VGG is renowned for its simplicity and effectiveness in image classification. It
 
 ResNet addressed the problem of vanishing gradients in deep networks by introducing skip connections or residual blocks, making it suitable for capturing complex patterns in ECG images.
 
-**Methodology**
+# Methodology
 
 **1. Data Preprocessing:** ECG images were standardized and resized to a uniform size suitable for input to the CNN models.
 
