@@ -9,9 +9,7 @@ The primary objective of this research project is to design a robust diagnostic 
 - Resource: https://data.mendeley.com/datasets/gwbz3fsgp8/1 
 
 
-****Methods:**
-**CNN Architectures**
-
+**Methods: CNN Architectures**
 This study utilized two prominent **Convolutional Neural Network (CNN) architectures, VGG and ResNet**, to develop an intelligent ECG diagnostic system for classifying ECG images into cardiovascular disorder categories.
 
 **1. VGG16 (Visual Geometry Group) Network:**
