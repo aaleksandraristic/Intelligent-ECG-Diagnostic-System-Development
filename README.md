@@ -7,7 +7,6 @@ The primary objective of this research project is to design a robust diagnostic 
 - 1937 distinct patient records, gathered using the 'EDAN SERIES-3 ECG Device deployed in Cardiac Care and Isolation Units [3] across various healthcare institutions in Pakistan.
 - do not contain any personal information about patients.
 - Resource: https://data.mendeley.com/datasets/gwbz3fsgp8/1 
-![image](https://github.com/aaleksandraristic/Intelligent-ECG-Diagnostic-System-based-on-CNN-Models/assets/140200824/9480dff9-4e22-4fc9-9684-f12592a5f402)
 
 
 **Methods:**
