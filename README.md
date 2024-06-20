@@ -1,10 +1,6 @@
 **Intelligent ECG Diagnostic System based on CNN Models**
 
-The primary objective of this research project is to design a robust diagnostic system capable of classifying ECG images into categories of cardiovascular disorders based on ECG recordings. The proposed CNN models, VGG and ResNet, were trained on the dataset to learn distinctive features from the complex ECG waveforms. The research explored the efficacy of these architectures in capturing intricate patterns and subtle abnormalities present in the ECG images.
-
-The methodology involves preprocessing the ECG images, augmenting the dataset for improved model generalization, and training the CNN models on the labeled dataset. The trained models then undergo rigorous evaluation using appropriate metrics to assess their performance in terms of accuracy, sensitivity, specificity, and overall diagnostic capability.
-
-The expected outcome of this research is a sophisticated diagnostic tool that can aid healthcare professionals in rapidly and accurately identifying normal cardiac patterns, abnormalities, and potential myocardial disorders from 12-lead ECG images. The findings from this research lay the foundation for future enhancements, including the integration of real-time monitoring capabilities and the expansion of the dataset to further refine and generalize the diagnostic system.
+The primary objective of this research project is to design a robust diagnostic system capable of classifying ECG images of cardiovascular disorders based on ECG recordings. The proposed CNN models, VGG and ResNet, were trained on the dataset to learn distinctive features from the complex ECG waveforms. The research explored the efficacy of these architectures in capturing intricate patterns and subtle abnormalities present in the ECG images.
 
 **Dataset:**
 - ECG images from patients diagnosed with both cardiac conditions and COVID-19 
@@ -34,7 +30,7 @@ ResNet addressed the problem of vanishing gradients in deep networks by introduc
 **4. Model Evaluation:** The models were evaluated using accuracy, sensitivity, specificity, and F1-score to assess diagnostic performance. 
 
 **Expected Outcome**
-This research aimed to develop a sophisticated diagnostic tool for accurately identifying cardiovascular disorders from 12-lead ECG images. The findings laid the foundation for future enhancements in real-time monitoring and dataset expansion.
+The expected outcome of this research is a sophisticated diagnostic tool that can aid healthcare professionals in rapidly and accurately identifying normal cardiac patterns, abnormalities, and potential myocardial disorders from 12-lead ECG images. The findings from this research lay the foundation for future enhancements, including the integration of real-time monitoring capabilities and the expansion of the dataset to further refine and generalize the diagnostic system. 
 
 
 [Intelligent 12-lead ECG Diagnostic System Development - Final Presentation.pptx](https://github.com/user-attachments/files/15909110/Intelligent.12-lead.ECG.Diagnostic.System.Development.-.Final.Presentation.pptx)
